@@ -6,7 +6,7 @@ In the plugin installation page, click in `Add Plugins` -> `Upload Plugin` selec
 
 #### Example of use
 
-With the plugin installed try calling the admin page in a ifrme as follows:
+With the plugin installed try calling the WP admin page in a **iframe** as follows:
 
 ```
 <!DOCTYPE html>

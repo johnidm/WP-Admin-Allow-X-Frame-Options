@@ -17,7 +17,7 @@ add_action( 'login_init', 'send_origin_frame_options_header', 10, 0 );
 add_action( 'admin_init', 'send_origin_frame_options_header', 10, 0 );
 
 function send_origin_frame_options_header() {
-    $origin = $_SERVER['HTTP_HOST'];
+    $origin = '<your domain URL>';
     @header( 'X-Frame-Options: ' . $origin );
 }
 

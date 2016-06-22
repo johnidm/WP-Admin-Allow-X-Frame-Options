@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Admin Allow X-Frame-Options
 Plugin URI: https://github.com/johnidm/wp-admin-allow-x-frame-options
-Description: This plugin allow to embed WP admin pages on iframe HTML tag
+Description: Allow to embed WP admin pages in the iframe HTML tag
 Author: Johni Douglas Marangon
 Version: 0.0.1
 Author URI: http://johnidouglas.com

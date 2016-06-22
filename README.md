@@ -1,8 +1,12 @@
 # WP-Admin Allow X Frame Options
 
+### How to install
 
+In the plugin installation page, click in `Add Plugins` -> `Upload Plugin` select zip file and upload.
 
-#### Basic usage
+#### Example of use
+
+With the plugin installed try calling the admin page in a ifrme as follows:
 
 ```
 <!DOCTYPE html>

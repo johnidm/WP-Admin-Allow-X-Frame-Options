@@ -4,6 +4,8 @@
 
 In the plugin installation page, click in `Add Plugins` -> `Upload Plugin` select zip file and upload.
 
+> Inportant: You need to define a valid URL domain in the [$origin]( https://github.com/johnidm/WP-Admin-Allow-X-Frame-Options/blob/master/wp-admin-allow-x-frame-options.php#L20) variable.
+
 #### Example of use
 
 With the plugin installed try calling the WP admin page in a **iframe** as follows:
